@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Carlos Eduardo! 👋
 
-<!--
-**eduardooliveira3101/eduardooliveira3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About me
+I'm 23 years old and I'm a junior developer, i'm in career transition, currently working in a civil construction laboratory in the paving area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Learning
+- React JS
+- Node JS
+- English
+
+
+## 🛠 Skills
+- Javascript 
+- HTML 
+- CSS
+
+## 🔗 Links
+[![portfolio under construction](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eduardooliveira3101.github.io/LANDING_PAGE/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-2a8938258/)
+
+
+
+
+
+
+
+
+
