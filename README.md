@@ -1,21 +1,7 @@
 # Hi, I'm Carlos Eduardo! 👋
 
 ## 🧠 Learning
+- Javascript 
 - React JS
 - Node JS
 - English
-
-## 🛠 Skills
-- Javascript 
-- HTML 
-- CSS
-- Bootstrap
-
-
-
-
-
-
-
-
-
