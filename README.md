@@ -1,4 +1,4 @@
-# Hi, I'm Carlos Eduardo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+# Hi, I'm Carlos Eduardo!
 - 💻 Software developer
 - 📌 Fortaleza-CE, Brazil
 - 🙋🏾‍♂️ 24 years
