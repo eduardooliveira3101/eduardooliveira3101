@@ -1,4 +1,4 @@
-# Hi, I'm Carlos Eduardo!
+# Hi, I'm Eduardo Oliveira!
 - 💻 Software developer
 - 📌 Fortaleza-CE, Brazil
 - 🙋🏾‍♂️ 25 years
