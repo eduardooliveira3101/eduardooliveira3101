@@ -1,7 +1,7 @@
 # Hi, I'm Carlos Eduardo!
 - 💻 Software developer
 - 📌 Fortaleza-CE, Brazil
-- 🙋🏾‍♂️ 25 years
+- 🙋🏾‍♂️ 26 years
 
 ## Technologies
 <div style="display: inline_block">
