@@ -1,5 +1,4 @@
 # Hi, I'm Carlos Eduardo!
-- 💻 Data Analytics
 - 📌 Fortaleza-CE, Brazil
 - 🙋🏾‍♂️ 26 years
 
